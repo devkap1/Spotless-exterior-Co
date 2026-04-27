@@ -209,3 +209,16 @@ When running on Windows, file names are checked against an access list to protec
 ✓ Compiled in 21ms
  GET / 200 in 70ms (next.js: 48ms, application-code: 22ms)
  GET / 200 in 131ms (next.js: 3ms, application-code: 128ms)
+✓ Compiled in 46ms
+ GET / 200 in 147ms (next.js: 116ms, application-code: 31ms)
+✓ Compiled in 21ms
+ GET / 200 in 116ms (next.js: 54ms, application-code: 62ms)
+✓ Compiled in 23ms
+ GET / 200 in 76ms (next.js: 50ms, application-code: 26ms)
+✓ Compiled in 25ms
+ GET / 200 in 103ms (next.js: 64ms, application-code: 39ms)
+✓ Compiled in 19ms
+ GET / 200 in 80ms (next.js: 48ms, application-code: 32ms)
+✓ Compiled in 21ms
+ GET / 200 in 87ms (next.js: 47ms, application-code: 41ms)
+ GET / 200 in 19ms (next.js: 1713µs, application-code: 17ms)

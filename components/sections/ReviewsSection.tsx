@@ -83,8 +83,9 @@ export default function ReviewsSection() {
         ease: "power3.out",
         scrollTrigger: {
           trigger: sectionRef.current,
-          start: "top 90%",
-          toggleActions: "play none none reverse",
+          start: "top 95%",
+          once: true,
+          invalidateOnRefresh: true,
         },
       });
     }, sectionRef);

@@ -69,8 +69,9 @@ export default function ServicesSection() {
         ease: "power3.out",
         scrollTrigger: {
           trigger: sectionRef.current,
-          start: "top 80%",
-          toggleActions: "play none none reverse",
+          start: "top 95%",
+          once: true,
+          invalidateOnRefresh: true,
         },
       });
 
@@ -82,8 +83,9 @@ export default function ServicesSection() {
         ease: "power3.out",
         scrollTrigger: {
           trigger: ".svc-grid",
-          start: "top 82%",
-          toggleActions: "play none none reverse",
+          start: "top 95%",
+          once: true,
+          invalidateOnRefresh: true,
         },
       });
     }, sectionRef);

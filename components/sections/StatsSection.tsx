@@ -23,8 +23,9 @@ export default function StatsSection() {
         ease: "power3.out",
         scrollTrigger: {
           trigger: sectionRef.current,
-          start: "top 80%",
-          toggleActions: "play none none reverse",
+          start: "top 95%",
+          once: true,
+          invalidateOnRefresh: true,
         },
       });
 
@@ -36,8 +37,9 @@ export default function StatsSection() {
         ease: "power3.out",
         scrollTrigger: {
           trigger: ".stats-grid",
-          start: "top 82%",
-          toggleActions: "play none none reverse",
+          start: "top 95%",
+          once: true,
+          invalidateOnRefresh: true,
         },
       });
 
@@ -55,8 +57,9 @@ export default function StatsSection() {
             snap: { textContent: 1 },
             scrollTrigger: {
               trigger: ".stats-grid",
-              start: "top 75%",
-              toggleActions: "play none none reset",
+              start: "top 95%",
+              once: true,
+              invalidateOnRefresh: true,
             },
             onUpdate: function () {
               if (el) el.textContent = Math.round(parseFloat(el.textContent || "0")).toString();

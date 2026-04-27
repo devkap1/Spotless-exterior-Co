@@ -22,7 +22,11 @@ export default function LenisProvider({ children }: { children: React.ReactNode 
     gsap.ticker.add(tick);
     gsap.ticker.lagSmoothing(0);
 
+    // Recalculate ScrollTrigger positions after mobile layout settles
+    const refreshTimer = setTimeout(() => ScrollTrigger.refresh(), 300);
+
     return () => {
+      clearTimeout(refreshTimer);
       gsap.ticker.remove(tick);
       lenis.destroy();
     };

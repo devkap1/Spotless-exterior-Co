@@ -1,0 +1,895 @@
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+⨯ ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  [90m148 |[0m             <span className=[32m"text-white/40 text-sm font-body ml-1"[0m>[35m/ 5.0 · Google</span[0m>
+  [90m149 |[0m           </div>
+[31m[1m>[0m [90m150 |[0m         </motion.div>
+  [90m    |[0m                      [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m151 |[0m
+  [90m    |[0m [31m[1m^[0m
+[31m[1m>[0m [90m152 |[0m         <div
+  [90m    |[0m [31m[1m^^^^^^^^[0m
+  [90m153 |[0m           className=[32m"flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...[0m
+  [90m154 |[0m         >
+  [90m155 |[0m           <[33mTestimonialsColumn[0m testimonials={col1} duration={[35m18[0m} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx
+
+
+[browser] ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13828:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13891:21)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13828:21)
+[browser] ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13828:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13891:21)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13828:21)
+[browser] ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13828:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13891:21)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13828:21)
+⨯ ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  [90m148 |[0m             <span className=[32m"text-white/40 text-sm font-body ml-1"[0m>[35m/ 5.0 · Google</span[0m>
+  [90m149 |[0m           </div>
+[31m[1m>[0m [90m150 |[0m         </motion.div>
+  [90m    |[0m                      [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m151 |[0m
+  [90m    |[0m [31m[1m^[0m
+[31m[1m>[0m [90m152 |[0m         <div
+  [90m    |[0m [31m[1m^^^^^^^^[0m
+  [90m153 |[0m           className=[32m"flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...[0m
+  [90m154 |[0m         >
+  [90m155 |[0m           <[33mTestimonialsColumn[0m testimonials={col1} duration={[35m18[0m} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx
+
+
+[browser] ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13828:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13891:21)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13828:21)
+⨯ ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  [90m148 |[0m             <span className=[32m"text-white/40 text-sm font-body ml-1"[0m>[35m/ 5.0 · Google</span[0m>
+  [90m149 |[0m           </div>
+[31m[1m>[0m [90m150 |[0m         </motion.div>
+  [90m    |[0m                      [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m151 |[0m
+  [90m    |[0m [31m[1m^[0m
+[31m[1m>[0m [90m152 |[0m         <div
+  [90m    |[0m [31m[1m^^^^^^^^[0m
+  [90m153 |[0m           className=[32m"flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...[0m
+  [90m154 |[0m         >
+  [90m155 |[0m           <[33mTestimonialsColumn[0m testimonials={col1} duration={[35m18[0m} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx
+
+
+[browser] Uncaught Error: ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx
+
+
+    at <unknown> (Error: ./components/sections/ReviewsSection.tsx:150:22)
+    at <unknown> (Error: (./components/sections/ReviewsSection.tsx:150:22)
+[browser] ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2834:28)
+    at <unknown> (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2679:13)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2324:17) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+[browser] ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2834:28)
+    at <unknown> (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2679:13)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2324:17) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+[browser] ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2834:28)
+    at <unknown> (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2679:13)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2324:17) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+⨯ ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  [90m148 |[0m             <span className=[32m"text-white/40 text-sm font-body ml-1"[0m>[35m/ 5.0 · Google</span[0m>
+  [90m149 |[0m           </div>
+[31m[1m>[0m [90m150 |[0m         </motion.div>
+  [90m    |[0m                      [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m151 |[0m
+  [90m    |[0m [31m[1m^[0m
+[31m[1m>[0m [90m152 |[0m         <div
+  [90m    |[0m [31m[1m^^^^^^^^[0m
+  [90m153 |[0m           className=[32m"flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...[0m
+  [90m154 |[0m         >
+  [90m155 |[0m           <[33mTestimonialsColumn[0m testimonials={col1} duration={[35m18[0m} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx
+
+
+[browser] Uncaught Error: ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx
+
+
+    at <unknown> (Error: ./components/sections/ReviewsSection.tsx:150:22)
+    at <unknown> (Error: (./components/sections/ReviewsSection.tsx:150:22)
+[browser] ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2834:28)
+    at <unknown> (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2679:13)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2324:17) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+[browser] ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2834:28)
+    at <unknown> (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2679:13)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2324:17) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+⨯ ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  [90m148 |[0m             <span className=[32m"text-white/40 text-sm font-body ml-1"[0m>[35m/ 5.0 · Google</span[0m>
+  [90m149 |[0m           </div>
+[31m[1m>[0m [90m150 |[0m         </motion.div>
+  [90m    |[0m                      [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m151 |[0m
+  [90m    |[0m [31m[1m^[0m
+[31m[1m>[0m [90m152 |[0m         <div
+  [90m    |[0m [31m[1m^^^^^^^^[0m
+  [90m153 |[0m           className=[32m"flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...[0m
+  [90m154 |[0m         >
+  [90m155 |[0m           <[33mTestimonialsColumn[0m testimonials={col1} duration={[35m18[0m} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx
+
+
+[browser] Uncaught Error: ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx
+
+
+    at <unknown> (Error: ./components/sections/ReviewsSection.tsx:150:22)
+    at <unknown> (Error: (./components/sections/ReviewsSection.tsx:150:22)
+[browser] ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2834:28)
+    at <unknown> (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2679:13)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2324:17) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+[browser] ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2834:28)
+    at <unknown> (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2679:13)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2324:17) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+⨯ ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  [90m148 |[0m             <span className=[32m"text-white/40 text-sm font-body ml-1"[0m>[35m/ 5.0 · Google</span[0m>
+  [90m149 |[0m           </div>
+[31m[1m>[0m [90m150 |[0m         </motion.div>
+  [90m    |[0m                      [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m151 |[0m
+  [90m    |[0m [31m[1m^[0m
+[31m[1m>[0m [90m152 |[0m         <div
+  [90m    |[0m [31m[1m^^^^^^^^[0m
+  [90m153 |[0m           className=[32m"flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...[0m
+  [90m154 |[0m         >
+  [90m155 |[0m           <[33mTestimonialsColumn[0m testimonials={col1} duration={[35m18[0m} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx
+
+
+[browser] Uncaught Error: ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx
+
+
+    at <unknown> (Error: ./components/sections/ReviewsSection.tsx:150:22)
+    at <unknown> (Error: (./components/sections/ReviewsSection.tsx:150:22)
+[browser] ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2834:28)
+    at <unknown> (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2679:13)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2324:17) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+[browser] ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2834:28)
+    at <unknown> (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2679:13)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2324:17) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+⨯ ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  [90m148 |[0m             <span className=[32m"text-white/40 text-sm font-body ml-1"[0m>[35m/ 5.0 · Google</span[0m>
+  [90m149 |[0m           </div>
+[31m[1m>[0m [90m150 |[0m         </motion.div>
+  [90m    |[0m                      [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m151 |[0m
+  [90m    |[0m [31m[1m^[0m
+[31m[1m>[0m [90m152 |[0m         <div
+  [90m    |[0m [31m[1m^^^^^^^^[0m
+  [90m153 |[0m           className=[32m"flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...[0m
+  [90m154 |[0m         >
+  [90m155 |[0m           <[33mTestimonialsColumn[0m testimonials={col1} duration={[35m18[0m} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx
+
+
+[browser] Uncaught Error: ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx
+
+
+    at <unknown> (Error: ./components/sections/ReviewsSection.tsx:150:22)
+    at <unknown> (Error: (./components/sections/ReviewsSection.tsx:150:22)
+[browser] ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2834:28)
+    at <unknown> (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2679:13)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2324:17) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+[browser] ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2834:28)
+    at <unknown> (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2679:13)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2324:17) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+'wmic' is not recognized as an internal or external command,
+operable program or batch file.
+Debugger listening on ws://127.0.0.1:9229/406a3269-5a20-43bb-9555-beac2d5f9528
+For help, see: https://nodejs.org/en/docs/inspector
+'wmic' is not recognized as an internal or external command,
+operable program or batch file.
+'wmic' is not recognized as an internal or external command,
+operable program or batch file.
+⨯ ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  [90m148 |[0m             <span className=[32m"text-white/40 text-sm font-body ml-1"[0m>[35m/ 5.0 · Google</span[0m>
+  [90m149 |[0m           </div>
+[31m[1m>[0m [90m150 |[0m         </motion.div>
+  [90m    |[0m                      [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m151 |[0m
+  [90m    |[0m [31m[1m^[0m
+[31m[1m>[0m [90m152 |[0m         <div
+  [90m    |[0m [31m[1m^^^^^^^^[0m
+  [90m153 |[0m           className=[32m"flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...[0m
+  [90m154 |[0m         >
+  [90m155 |[0m           <[33mTestimonialsColumn[0m testimonials={col1} duration={[35m18[0m} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx
+
+
+[browser] Uncaught Error: ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx
+
+
+    at <unknown> (Error: ./components/sections/ReviewsSection.tsx:150:22)
+    at <unknown> (Error: (./components/sections/ReviewsSection.tsx:150:22)
+[browser] ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2834:28)
+    at <unknown> (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2679:13)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2324:17) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+[browser] ./components/sections/ReviewsSection.tsx:150:22
+Expected '</', got 'jsx text'
+  148 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  149 |           </div>
+> 150 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 151 |
+      | ^
+> 152 |         <div
+      | ^^^^^^^^
+  153 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  154 |         >
+  155 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2834:28)
+    at <unknown> (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2679:13)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2324:17) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+'wmic' is not recognized as an internal or external command,
+operable program or batch file.
+'wmic' is not recognized as an internal or external command,
+operable program or batch file.
+'wmic' is not recognized as an internal or external command,
+operable program or batch file.
+'wmic' is not recognized as an internal or external command,
+operable program or batch file.
+[browser] ./components/sections/ReviewsSection.tsx:149:22
+Expected '</', got 'jsx text'
+  147 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  148 |           </div>
+> 149 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 150 |
+      | ^
+> 151 |         <div
+      | ^^^^^^^^
+  152 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  153 |         >
+  154 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2834:28)
+    at <unknown> (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2679:13)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2324:17) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+[browser] ./components/sections/ReviewsSection.tsx:149:22
+Expected '</', got 'jsx text'
+  147 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  148 |           </div>
+> 149 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 150 |
+      | ^
+> 151 |         <div
+      | ^^^^^^^^
+  152 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  153 |         >
+  154 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2834:28)
+    at <unknown> (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2679:13)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2324:17) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+[browser] ./components/sections/ReviewsSection.tsx:149:22
+Expected '</', got 'jsx text'
+  147 |             <span className="text-white/40 text-sm font-body ml-1">/ 5.0 · Google</span>
+  148 |           </div>
+> 149 |         </motion.div>
+      |                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 150 |
+      | ^
+> 151 |         <div
+      | ^^^^^^^^
+  152 |           className="flex justify-center gap-5 [mask-image:linear-gradient(to_bottom,tran...
+  153 |         >
+  154 |           <TestimonialsColumn testimonials={col1} duration={18} />
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/sections/ReviewsSection.tsx
+    ./app/page.tsx 
+    at handleErrors (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+    at processMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2834:28)
+    at <unknown> (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2679:13)
+    at WebSocket.handleMessage (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2324:17) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_client_0pe1dg-._.js:2773:21)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Updating a style property during rerender (background) when a conflicting property is set (backgroundClip) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. 
+    at setValueForStyles (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:2025:29)
+    at setProp (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:10736:17)
+    at updateProperties (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:11323:203)
+    at commitUpdate (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:11894:9)
+    at runWithFiberInDEV (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:965:74)
+    at commitHostUpdate (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:7421:13)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8298:100)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8286:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8286:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8286:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8286:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8286:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8214:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8286:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8214:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8403:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8403:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8214:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8219:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8214:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8219:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8214:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8214:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8214:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8219:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8214:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106)
+    at commitMutationEffectsOnFiber (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8214:17)
+    at recursivelyTraverseMutationEffects (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:8205:106) (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:2025:29)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
+[browser] Image with src "/logo.webp" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file://C:/Users/Deven/Animated websites/Spotless exterior website/site/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)
